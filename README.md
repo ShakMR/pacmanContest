@@ -1,5 +1,5 @@
 # Codingame Spring 2020 contest - PacMan
-
+![pacman image](https://cdn.pixabay.com/photo/2019/06/19/15/28/pacman-4285160_960_720.png)
 ## Start
 `npm install`
 
