@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/code.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "round": "node manualTest/setup.js ./manualTest/testFIle"
   },
   "repository": {
     "type": "git",
