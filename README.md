@@ -1,6 +1,6 @@
 # Codingame Spring 2020 contest - PacMan
 
-##Start
+## Start
 `npm install`
 
 `npm run build`
@@ -27,9 +27,9 @@ it will finish with a EOF error and just give the first movement of each user Pa
 MOVE 0 1 2 | MOVE 2 2 5
 ```
 
-#Links
+# Links
 https://www.codingame.com/challenge/spring-challenge-2020
 
-##Matches played
+## Matches played
 * First version: https://www.codingame.com/share-replay/458454565
 * Second Version: https://www.codingame.com/share-replay/458582944
